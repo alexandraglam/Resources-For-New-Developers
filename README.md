@@ -10,6 +10,7 @@
 - [Podcasts](#podcasts)
 
 ## Udemy Tutorials:
+> Keep a lookout for sales! You can normally get classes for around $10-$15 
 
 * [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp): Front-end and back-end development for beginners who want to try out different languages.
 * [Responsive Website Design](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/): You build a killer responsive site using HTML, CSS and Jquery. 
