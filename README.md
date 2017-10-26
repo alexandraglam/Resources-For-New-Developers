@@ -4,7 +4,7 @@
 ## Content:
 
 - [Udemy Tutorials](#udemy-tutorials)
-- [Youtuber's to Follow](#youtubers)
+- [Youtuber's to Follow](#youtubers-to-follow)
 - [Documentation](#documentation)
 - [Tools](#tools)
 - [Inspiration](#inspiration)
