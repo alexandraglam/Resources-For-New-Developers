@@ -85,6 +85,7 @@
 * [Web Design Depot](https://www.webdesignerdepot.com/)
 * [Front-End Depot](https://frontendfront.com/)
 * [Learn To Code With Me](https://learntocodewith.me/)
+* [XO Pixel](https://xopixel.com/): She has great HTML/CSS resources and short tutorials.
 
 ## Podcasts
 > 
