@@ -1,5 +1,6 @@
 # Resources For New Developers 
-> (NOT FINISHED YET) A curated list for new developers and web designers.
+> A curated list for new developers and web designers.
+> If you'd like to contribute, go for it!
 
 ## Content:
 
