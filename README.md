@@ -96,4 +96,4 @@
 * [Hipster Ipsum](https://hipsum.co/)
 * [Cat Ipsum](http://www.catipsum.com/)
 * [Flower Ipsum](http://floweripsum.com/)
-* [Heisenberg Ipsum] (http://heisenbergipsum.com/)
+* [Heisenberg Ipsum](http://heisenbergipsum.com/)
