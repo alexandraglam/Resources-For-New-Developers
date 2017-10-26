@@ -76,11 +76,24 @@
 ## Blogs & News
 > Stay up-to-date with the latest in web development and design.
 
-[Smashing Magazine](https://www.smashingmagazine.com/) 
-[CreativeBloq](http://www.creativebloq.com/)
-[WordPress Beginner](http://www.wpbeginner.com/): Great resource for a beginner WP developer
-[CSS-Tricks](https://css-tricks.com/)
-[Stack Overflow](https://stackoverflow.com/): Got a question? You'll most likely find your answer here.
-[Web Design Depot](https://www.webdesignerdepot.com/)
-[Front-end Depot](https://frontendfront.com/)
-[Learn To Code With Me](https://learntocodewith.me/)
+* [Smashing Magazine](https://www.smashingmagazine.com/) 
+* [CreativeBloq](http://www.creativebloq.com/)
+* [WordPress Beginner](http://www.wpbeginner.com/): Great resource for a beginner WP developer
+* [CSS-Tricks](https://css-tricks.com/)
+* [Stack Overflow](https://stackoverflow.com/): Got a question? You'll most likely find your answer here.
+* [Web Design Depot](https://www.webdesignerdepot.com/)
+* [Front-End Depot](https://frontendfront.com/)
+* [Learn To Code With Me](https://learntocodewith.me/)
+
+## Podcasts
+> 
+
+## Lorem Ipsum
+> Who said your dummy text had to be plain and boring?
+
+* [Bacon Ipsum](https://baconipsum.com/)
+* [Fashion Ipsum](http://fashionipsum.com/)
+* [Hipster Ipsum](https://hipsum.co/)
+* [Cat Ipsum](http://www.catipsum.com/)
+* [Flower Ipsum](http://floweripsum.com/)
+* [Heisenberg Ipsum] (http://heisenbergipsum.com/)
