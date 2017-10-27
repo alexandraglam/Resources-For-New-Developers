@@ -92,7 +92,7 @@
 > 
 
 ## Lorem Ipsum
-> Who said your dummy text had to be plain and boring?
+> Who said dummy text had to be plain and boring?
 
 * [Bacon Ipsum](https://baconipsum.com/)
 * [Fashion Ipsum](http://fashionipsum.com/)
