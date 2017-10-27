@@ -24,7 +24,7 @@
 * [Bootstrap 4](https://www.udemy.com/bootstrap-4/): Goes over new features of Bootstrap 4
 
 ## Youtuber's to Follow: 
-> My personal favorites. These Youtuber's have a wonderful selection of tutorials for web dev.
+> These Youtuber's have a wonderful selection of tutorials for web development.
 
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA): Tutorials on web development for beginner and advanced users. 
 * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ): Weekly tutorials on web development and web design.
@@ -66,7 +66,7 @@
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html): Gives you access to all their software. Is you're a student, you can get the CC for $20 for the first year.
 
 ## Inspiration
-> Some of my favorite resources for web design inspo.
+> Stuck in a creative rut? Take a look at these awesome sites for some inspiration!
 
 * [One Page Love](https://onepagelove.com/): Awesome for one page / lading page inspiration.
 * [Dribbble](https://dribbble.com/): Designer showcase and one of the best sources for inspiration. 
