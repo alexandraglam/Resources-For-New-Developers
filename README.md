@@ -58,8 +58,7 @@
 
 * [Adobe Brackets](http://brackets.io/): Best feature of this text editor is the live preview
 * [Sublime](https://www.sublimetext.com/3): Reliable and powerful text editor
-* [Atom](https://atom.io/): A hackable text editor
-for the 21st Century.
+* [Atom](https://atom.io/): A hackable text editor for the 21st Century.
 * [iTerm2](https://www.iterm2.com/): Replacement for Terminal with modern age features.
 * [Docker](https://www.docker.com): Open platform for developers to emulate local environments.
 * [MAMP / WAMP](https://www.mamp.info/en/): MAMP installs a local server environment in a matter of seconds on your Mac or Windows computer.
