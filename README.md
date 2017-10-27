@@ -66,7 +66,7 @@
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html): Gives you access to all their software. Is you're a student, you can get the CC for $20 for the first year.
 
 ## Inspiration
-> Stuck in a creative rut? Take a look at these awesome sites for some inspiration!
+> Stuck in a creative rut? Take a look at these awesome sites for inspiration!
 
 * [One Page Love](https://onepagelove.com/): Awesome for one page / lading page inspiration.
 * [Dribbble](https://dribbble.com/): Designer showcase and one of the best sources for inspiration. 
