@@ -44,7 +44,7 @@
 * [Dansky](https://www.youtube.com/user/ForeverDansky/): His tutorials are all about design using the latest tools such as Adobe XD, Illustrator , Sketch, etc.
 * [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w): Great source for learning character illustration
 * [Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ): Focuses mostly on design and illustration but he does have some front-end tutorials.
-* [Kevin Powell](https://www.youtube.com/user/KepowOb): Awesome web development videos everthing wesnesday. CSS Grids are must watch.
+* [Kevin Powell](https://www.youtube.com/user/KepowOb): Awesome web development videos every wesnesday. CSS Grid videos are must watch.
 
 ## Documentation
 > Gotta read those docs!
