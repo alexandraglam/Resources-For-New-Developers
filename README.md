@@ -21,7 +21,7 @@
 * [The Complete Javascript Course](https://www.udemy.com/the-complete-javascript-course/): This course is perfect for beginners to JS and you build 3 projects.
 * [Practical PHP](https://www.udemy.com/code-dynamic-websites): PHP basics with test-your-knowledge projects after each section.
 * [UX/UI Design with Adobe XD](https://www.udemy.com/adobe-xd-course): Beginner course that takes you through the tools and features of Adobe XD. For the project, you are designing the mockups for an app.
-* [Bootstrap 4](https://www.udemy.com/bootstrap-4/): Goes over new features of Bootstrap 4
+* [Bootstrap 4](https://www.udemy.com/bootstrap-4/): Goes over the new features of Bootstrap 4.
 
 ## Youtuber's to Follow: 
 > These Youtuber's have a wonderful selection of tutorials for web development.
