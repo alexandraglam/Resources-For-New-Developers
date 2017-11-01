@@ -1,4 +1,4 @@
-# Resources For New Developers 
+# Resources For New Developers
 > A curated list for new developers and web designers.
 > If you'd like to contribute, go for it!
 
@@ -12,21 +12,22 @@
 - [Blogs & News](#blog--news)
 - [Podcasts](#podcasts)
 - [Lorem Ipsum](#lorem-ipsum)
+- [Beautiful Free Images](#beautiful-free-images)
 
 ## Udemy Tutorials:
-> Keep a lookout for sales! You can normally get classes for around $10-$15 
+> Keep a lookout for sales! You can normally get classes for around $10-$15
 
 * [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp): Front-end and back-end development for beginners who want to try out different languages.
-* [Responsive Website Design](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/): You build a killer responsive site using HTML, CSS and Jquery. 
+* [Responsive Website Design](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/): You build a killer responsive site using HTML, CSS and Jquery.
 * [The Complete Javascript Course](https://www.udemy.com/the-complete-javascript-course/): This course is perfect for beginners to JS and you build 3 projects.
 * [Practical PHP](https://www.udemy.com/code-dynamic-websites): PHP basics with test-your-knowledge projects after each section.
 * [UX/UI Design with Adobe XD](https://www.udemy.com/adobe-xd-course): Beginner course that takes you through the tools and features of Adobe XD. For the project, you are designing the mockups for an app.
 * [Bootstrap 4](https://www.udemy.com/bootstrap-4/): Goes over the new features of Bootstrap 4.
 
-## Youtuber's to Follow: 
+## Youtuber's to Follow:
 > These Youtuber's have a wonderful selection of tutorials for web development.
 
-* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA): Tutorials on web development for beginner and advanced users. 
+* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA): Tutorials on web development for beginner and advanced users.
 * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ): Weekly tutorials on web development and web design.
 * [Drew Ryan](https://www.youtube.com/user/DrewOnCue/): Responsive web design using the latest HTML/CSS. Not updated too often.
 * [Quentin Watt Tutorials](https://www.youtube.com/user/QuentinWatt/videos): Amazing tutorials on web development such as WordPress, MySQl, Bootstrap, etc.
@@ -35,10 +36,10 @@
 * [Alessandro Castellani](https://www.youtube.com/user/williamprey/): Great source for WordPress tutorials.
 * [Codecourse](https://www.youtube.com/user/phpacademy/): Great source for back-end development.
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/): A mix of front and back-end step-by-step tutorials.
-* [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA): Great tutorials on web design and front-end development. He also has courses on Udemy which I highly recommend. 
+* [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA): Great tutorials on web design and front-end development. He also has courses on Udemy which I highly recommend.
 
 * [Beginner Tuts](https://www.youtube.com/channel/UCht72AJLRQxhqG6aNc_MbNg): Gives advice on web development.
-* [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/): Channel about life as a designer with helpful tips. 
+* [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/): Channel about life as a designer with helpful tips.
 
 * [Caler Edwards](https://www.youtube.com/user/CalerEdwards/): Tutorials on UI/UX design.
 * [Dansky](https://www.youtube.com/user/ForeverDansky/): His tutorials are all about design using the latest tools such as Adobe XD, Illustrator , Sketch, etc.
@@ -69,7 +70,7 @@
 > Stuck in a creative rut? Take a look at these awesome sites for inspiration.
 
 * [One Page Love](https://onepagelove.com/): Awesome for one page / lading page inspiration.
-* [Dribbble](https://dribbble.com/): Designer showcase and one of the best sources for inspiration. 
+* [Dribbble](https://dribbble.com/): Designer showcase and one of the best sources for inspiration.
 * [Behance](https://www.behance.net/): Another great design showcase.
 * [Creative Portofolios](http://www.creative-portfolios.com/): Great resource for portfolio inspiration.
 * [Templated](https://templated.co/): Free to use templates (mostly). I like to use this site to recreate their templates since you can look at the code right after.
@@ -78,7 +79,7 @@
 ## Blogs & News
 > Stay up-to-date with the latest in web development and design.
 
-* [Smashing Magazine](https://www.smashingmagazine.com/) 
+* [Smashing Magazine](https://www.smashingmagazine.com/)
 * [CreativeBloq](http://www.creativebloq.com/)
 * [WordPress Beginner](http://www.wpbeginner.com/): Great resource for a beginner WP developer
 * [CSS-Tricks](https://css-tricks.com/)
@@ -89,7 +90,7 @@
 * [XO Pixel](https://xopixel.com/): She has great HTML/CSS resources and short tutorials.
 
 ## Podcasts
-> 
+>
 
 ## Lorem Ipsum
 > Who said dummy text had to be plain and boring?
@@ -100,3 +101,14 @@
 * [Cat Ipsum](http://www.catipsum.com/)
 * [Flower Ipsum](http://floweripsum.com/)
 * [Heisenberg Ipsum](http://heisenbergipsum.com/)
+* [Dynamic Dummy Image](https://dummyimage.com/)
+* [Place Image](https://placeimg.com/)
+* [Place Holder](https://placeholder.com/)
+
+
+## Beautiful Free Images
+> Beautiful, free and GPL License photos. Gifted by the world’s most generous community of photographers..
+
+* [Pexels](https://www.pexels.com/)
+* [Unsplash](https://unsplash.com/)
+* [Pixabay](https://pixabay.com/)
