@@ -53,12 +53,12 @@
 * [WordPress](https://codex.wordpress.org/)
 * [Apple Developer](https://developer.apple.com/documentation/)
 * [Andriod Developer](https://developer.android.com/guide/index.html)
-* [Docker](https://docs.docker.com/)i
+* [Docker](https://docs.docker.com/)
 
 ## Tools
 > Every web developer needs the best tools.
 
-* [Adobe Brackets](http://brackets.io/): Best feature of this text editor is the live preview
+* [Adobe Brackets](http://brackets.io/): Best feature of this IDE is the live preview and customization 
 * [Sublime](https://www.sublimetext.com/3): Reliable and powerful text editor
 * [Atom](https://atom.io/): A hackable text editor for the 21st Century.
 * [iTerm2](https://www.iterm2.com/): Replacement for Terminal with modern age features.
