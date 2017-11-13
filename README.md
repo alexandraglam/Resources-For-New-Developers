@@ -53,6 +53,7 @@
 * [WordPress](https://codex.wordpress.org/)
 * [Apple Developer](https://developer.apple.com/documentation/)
 * [Andriod Developer](https://developer.android.com/guide/index.html)
+* [Docker](https://docs.docker.com/)i
 
 ## Tools
 > Every web developer needs the best tools.
@@ -64,6 +65,9 @@
 * [Docker](https://www.docker.com): Open platform for developers to emulate local environments.
 * [MAMP / WAMP](https://www.mamp.info/en/): MAMP installs a local server environment in a matter of seconds on your Mac or Windows computer.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html): Gives you access to all their software. Is you're a student, you can get the CC for $20 for the first year.
+* [Slack](https://slack.com/): Best messaging service for group projects.
+* [Trello](https://trello.com/): Collaboration tool that lets you organize your projects into boards.
+* [Evernote](https://evernote.com/): Great tool for typing out your notes. 
 
 ## Inspiration
 > Stuck in a creative rut? Take a look at these awesome sites for inspiration.
@@ -89,7 +93,16 @@
 * [XO Pixel](https://xopixel.com/): She has great HTML/CSS resources and short tutorials.
 
 ## Podcasts
-> 
+> Learn about something new on your drive to work. Podcasts can be downloaded on iTunes.
+
+* [ShopTalk](http://shoptalkshow.com/)
+* [Developer Tea] (https://spec.fm/podcasts/developer-tea)
+* [Learn to Code With Me] (https://learntocodewith.me/podcast/)
+* [The Big Web Show] (http://5by5.tv/bigwebshow)
+* [SwiftCoders] (https://swiftcoders.podbean.com/)
+* [UI Breakfast] (http://uibreakfast.com/category/podcast/)
+* [The Laptop Lifestyle](http://alexisteichmiller.com/category/laptop-lifestyle-podcast/)
+
 
 ## Lorem Ipsum
 > Who said dummy text had to be plain and boring?
