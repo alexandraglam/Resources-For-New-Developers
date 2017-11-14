@@ -96,11 +96,11 @@
 > Learn about something new on your drive to work. Podcasts can be downloaded on iTunes.
 
 * [ShopTalk](http://shoptalkshow.com/)
-* [Developer Tea] (https://spec.fm/podcasts/developer-tea)
-* [Learn to Code With Me] (https://learntocodewith.me/podcast/)
-* [The Big Web Show] (http://5by5.tv/bigwebshow)
-* [SwiftCoders] (https://swiftcoders.podbean.com/)
-* [UI Breakfast] (http://uibreakfast.com/category/podcast/)
+* [Developer Tea](https://spec.fm/podcasts/developer-tea)
+* [Learn to Code With Me](https://learntocodewith.me/podcast/)
+* [The Big Web Show](http://5by5.tv/bigwebshow)
+* [SwiftCoders](https://swiftcoders.podbean.com/)
+* [UI Breakfast](http://uibreakfast.com/category/podcast/)
 * [The Laptop Lifestyle](http://alexisteichmiller.com/category/laptop-lifestyle-podcast/)
 
 
