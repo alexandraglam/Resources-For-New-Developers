@@ -22,6 +22,7 @@
 * [Practical PHP](https://www.udemy.com/code-dynamic-websites): PHP basics with test-your-knowledge projects after each section.
 * [UX/UI Design with Adobe XD](https://www.udemy.com/adobe-xd-course): Beginner course that takes you through the tools and features of Adobe XD. For the project, you are designing the mockups for an app.
 * [Bootstrap 4](https://www.udemy.com/bootstrap-4/): Goes over the new features of Bootstrap 4.
+* [WordPress Development](https://www.udemy.com/wordpress-theme-and-plugin-development-course/): This course goes over customizing themes and buiding new ones from scratch. This course also gets updated as new WP releases new content.
 
 ## Youtuber's to Follow: 
 > These Youtuber's have a wonderful selection of tutorials for web development.
