@@ -45,6 +45,7 @@
 * [Dansky](https://www.youtube.com/user/ForeverDansky/): His tutorials are all about design using the latest tools such as Adobe XD, Illustrator , Sketch, etc.
 * [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w): Great source for learning character illustration
 * [Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ): Focuses mostly on design and illustration but he does have some front-end tutorials.
+* [Kevin Powell](https://www.youtube.com/user/KepowOb): Awesome web development videos every wesnesday. CSS Grid videos are must watch.
 
 ## Documentation
 > Gotta read those docs!
@@ -78,7 +79,8 @@
 * [Behance](https://www.behance.net/): Another great design showcase.
 * [Creative Portofolios](http://www.creative-portfolios.com/): Great resource for portfolio inspiration.
 * [Templated](https://templated.co/): Free to use templates (mostly). I like to use this site to recreate their templates since you can look at the code right after.
-* [Media Queries](https://mediaqueri.es/): A collection of responsive-built sites.        
+* [Media Queries](https://mediaqueri.es/): A collection of responsive-built sites. 
+* [Collectui](http://collectui.com/): Another Design showcase. Like one-stop shop, all in one place.
 
 ## Blogs & News
 > Stay up-to-date with the latest in web development and design.
