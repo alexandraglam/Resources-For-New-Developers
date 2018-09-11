@@ -78,7 +78,8 @@
 * [Behance](https://www.behance.net/): Another great design showcase.
 * [Creative Portofolios](http://www.creative-portfolios.com/): Great resource for portfolio inspiration.
 * [Templated](https://templated.co/): Free to use templates (mostly). I like to use this site to recreate their templates since you can look at the code right after.
-* [Media Queries](https://mediaqueri.es/): A collection of responsive-built sites.        
+* [Media Queries](https://mediaqueri.es/): A collection of responsive-built sites.      
+* [Anchor - Bootstrap UI Kit](https://wowthemesnet.github.io/Anchor-Bootstrap-UI-Kit/index.html): Anchor is a free Bootstrap UI Kit with flexible, ready to use UI components which will hep you build websites faster.
 
 ## Blogs & News
 > Stay up-to-date with the latest in web development and design.
