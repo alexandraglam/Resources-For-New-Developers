@@ -64,6 +64,7 @@
 * [Atom](https://atom.io/): A hackable text editor for the 21st Century.
 * [iTerm2](https://www.iterm2.com/): Replacement for Terminal with modern age features.
 * [Docker](https://www.docker.com): Open platform for developers to emulate local environments.
+* [BestJSON JSON Diff](https://bestjson.com/json-diff): Compare two JSON responses and inspect added, removed or changed values by path in the browser.
 * [MAMP / WAMP](https://www.mamp.info/en/): MAMP installs a local server environment in a matter of seconds on your Mac or Windows computer.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html): Gives you access to all their software. Is you're a student, you can get the CC for $20 for the first year.
 * [Slack](https://slack.com/): Best messaging service for group projects.
